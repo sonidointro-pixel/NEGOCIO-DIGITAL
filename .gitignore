@@ -1,0 +1,25 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# iCloud
+*.icloud
+
+# Build
+dist/
+build/
